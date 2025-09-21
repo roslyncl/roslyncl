@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br/>
 <a href="https://leetcode.com/u/roslyncl/">
   <p align="center">
-    <img width="400" height="200" src="https://leetcode.com/progress/">
+    <img width="400" height="200" src="https://leetcard.jacoblin.cool/u/roslyncl/">
   </p>
 </a>
 <br/>  
